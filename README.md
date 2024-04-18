@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Soy estudiante en desarrollo.
+Me estoy introduciendo en programación, a la larga espero contar con un equipo de investigación.
+
 <!--
 **Muntack/Muntack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
