@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 # Soy estudiante en desarrollo.
 Me estoy introduciendo en programación, a la larga espero contar con un equipo de investigación.
